@@ -11,3 +11,5 @@ Repo for all things DevOps. News, articles, conferences, communities, courses, t
 [Conferences](https://github.com/Cloud-repos/DevOps-News/tree/main/Conferences)
 
 [News]()
+
+[Resources]()
