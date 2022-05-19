@@ -2,14 +2,23 @@
 
 Repo for all things DevOps. News, articles, conferences, communities, courses, training, tutorials, and other resources.
 
-[Articles]()
+Articles
 
-[Blogs]()
+Blogs
+
+Certifications
 
 [Communities](https://github.com/Cloud-repos/DevOps-News/tree/main/Communities)
 
 [Conferences](https://github.com/Cloud-repos/DevOps-News/tree/main/Conferences)
 
-[News]()
+Docker
 
-[Resources]()
+Kubernetes
+
+News
+
+[Resources](https://github.com/Cloud-repos/DevOps-News/tree/main/Resources)
+
+Terraform
+
